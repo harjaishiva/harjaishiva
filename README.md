@@ -1,5 +1,6 @@
 # 💫 About Me:
-Flutter Developer with 21 months of experience building scalable cross-platform applications using Flutter & Dart.<br>Skilled in BLoC state management, REST API integration, Firebase, and backend development with Node.js and MySql.<br>Passionate about writing clean, maintainable, and production-ready code for real-world applications.
+Flutter Developer with 2+ years of experience developing cross-platform mobile applications. Proficient in Flutter, Dart, BLoC state management, app performance optimization, local storage, Firebase, and API integration. Hands-on experience in backend development with Node.js and Java Spring Boot, enabling end-to-end application development. Passionate about building scalable, maintainable, and user-centric solutions following industry best practices.
+
 
 
 ## 🌐 Socials:
